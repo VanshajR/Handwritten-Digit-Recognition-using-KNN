@@ -6,15 +6,15 @@ This project is a data analysis task that uses the K-Nearest Neighbors (KNN) alg
 
 ## Installation
 
-To run this project, you need to have the following libraries installed:
+To run this project, the following libraries need to be installed:
 
-- Python 3.x
+- Python 3.12
 - NumPy
 - Pandas
 - scikit-learn
 - Matplotlib
 
-You can install these dependencies using pip:
+Install these dependencies using pip:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
@@ -38,7 +38,7 @@ pip install numpy pandas scikit-learn matplotlib
 ## Results
 
 The notebook will output the following results:
-- A confusion matrix displaying the performance of the model.
+- A confuion matrix displaying the performance of the model.
 - The accuracy score of the model.
 - Other relevant metrics and visualizations.
 
